@@ -26,6 +26,7 @@ Key Features:
 - [Acknowledgements](#acknowledgements)
 
 ## Project Structure
+![Alt text](projectASRStruct.jpg)
 
 ## Setup & Requirements
 **Recommended: Google Colab or Jupyter Notebook**
