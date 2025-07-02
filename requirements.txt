@@ -1,0 +1,28 @@
+# Core ML and NLP
+transformers>=4.30.0
+datasets
+torch
+torchaudio
+
+# ASR and audio processing
+jiwer
+pydub
+librosa
+soundfile
+vosk
+
+# Translation
+deep-translator
+googletrans==4.0.0rc1
+
+# Google Cloud Speech-to-Text (optional, for Google STT API)
+google-cloud-speech
+
+# Data science
+pandas
+numpy
+
+# Jupyter and notebook utilities
+notebook
+ipython
+nltk
